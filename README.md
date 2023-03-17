@@ -15,7 +15,7 @@ GITLAB_API_URL=&lt;YOUR GITLAB URL&gt;, GITLAB_TOKEN=&lt;YOUR GITLAB TOKEN&gt;, 
 5. mvn package
 
 ## Known Limitations:
-Gitlab API fetches max of 100 records at a time, you can tune the concurrency for processing at in com.gp.gdd.config.BatchConfiguration.java search for "chunk"
+Gitlab API fetches max of 100 records at a time, you can tune the concurrency for processing in file com.gp.gdd.config.BatchConfiguration.java, search for "chunk"
 
 ## Reporting Usage:
 Coming soon
