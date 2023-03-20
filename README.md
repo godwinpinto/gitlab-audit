@@ -19,3 +19,9 @@ Gitlab API fetches max of 100 records at a time, you can tune the concurrency fo
 
 ## Reporting Usage:
 Coming soon
+
+## Roadmap
+1. Unit Test
+2. Interruption in service calls
+3. Integration with GitHub
+4. Integration with Jira & Bitbucket
