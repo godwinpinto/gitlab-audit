@@ -1,4 +1,4 @@
-# gitlab-audit
+# gitlab-etl
 The project aims to download important data nodes (issues, milestones, notes, groups, projects, etc) from your gitlab server using gitlab REST API to a mongodb database. The primary goal is to facilitate custom reporting so that one can create dashboards to monitor proper labelling / usage of organizations standard.
 
 ### One may ask why mongodb?
