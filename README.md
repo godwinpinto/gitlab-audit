@@ -27,6 +27,10 @@ Coming soon
 ## Related articles:
 https://godwin-pinto.medium.com/how-well-maintained-are-your-git-management-processes-9edb4ffed6e6
 
+https://medium.com/@godwin-pinto/performance-insights-using-just-gitlab-b3852a0abb49
+
+https://medium.com/@godwin-pinto/ensuring-gitlab-is-being-used-correctly-a4a19471aabb
+
 ## Roadmap
 1. Unit Test
 2. Incremental download of data dump(Currently the programs cleans and download full dump using API)
